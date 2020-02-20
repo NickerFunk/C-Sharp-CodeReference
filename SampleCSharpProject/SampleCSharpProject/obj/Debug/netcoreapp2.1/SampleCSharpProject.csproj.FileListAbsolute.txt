@@ -1,0 +1,11 @@
+X:\Projects\SampleCSharpProject\SampleCSharpProject\bin\Debug\netcoreapp2.1\SampleCSharpProject.deps.json
+X:\Projects\SampleCSharpProject\SampleCSharpProject\bin\Debug\netcoreapp2.1\SampleCSharpProject.runtimeconfig.json
+X:\Projects\SampleCSharpProject\SampleCSharpProject\bin\Debug\netcoreapp2.1\SampleCSharpProject.runtimeconfig.dev.json
+X:\Projects\SampleCSharpProject\SampleCSharpProject\bin\Debug\netcoreapp2.1\SampleCSharpProject.dll
+X:\Projects\SampleCSharpProject\SampleCSharpProject\bin\Debug\netcoreapp2.1\SampleCSharpProject.pdb
+X:\Projects\SampleCSharpProject\SampleCSharpProject\obj\Debug\netcoreapp2.1\SampleCSharpProject.csprojAssemblyReference.cache
+X:\Projects\SampleCSharpProject\SampleCSharpProject\obj\Debug\netcoreapp2.1\SampleCSharpProject.csproj.CoreCompileInputs.cache
+X:\Projects\SampleCSharpProject\SampleCSharpProject\obj\Debug\netcoreapp2.1\SampleCSharpProject.AssemblyInfoInputs.cache
+X:\Projects\SampleCSharpProject\SampleCSharpProject\obj\Debug\netcoreapp2.1\SampleCSharpProject.AssemblyInfo.cs
+X:\Projects\SampleCSharpProject\SampleCSharpProject\obj\Debug\netcoreapp2.1\SampleCSharpProject.dll
+X:\Projects\SampleCSharpProject\SampleCSharpProject\obj\Debug\netcoreapp2.1\SampleCSharpProject.pdb
